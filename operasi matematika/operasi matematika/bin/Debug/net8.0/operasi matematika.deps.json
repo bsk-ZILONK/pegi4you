@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "operasi matematika/1.0.0": {
+        "runtime": {
+          "operasi matematika.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "operasi matematika/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

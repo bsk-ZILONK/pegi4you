@@ -1,0 +1,14 @@
+C:\Users\MyPC One Pro K7-24\Documents\egyii pplg 2\operasi matematika\operasi matematika\bin\Debug\net8.0\operasi matematika.exe
+C:\Users\MyPC One Pro K7-24\Documents\egyii pplg 2\operasi matematika\operasi matematika\bin\Debug\net8.0\operasi matematika.deps.json
+C:\Users\MyPC One Pro K7-24\Documents\egyii pplg 2\operasi matematika\operasi matematika\bin\Debug\net8.0\operasi matematika.runtimeconfig.json
+C:\Users\MyPC One Pro K7-24\Documents\egyii pplg 2\operasi matematika\operasi matematika\bin\Debug\net8.0\operasi matematika.dll
+C:\Users\MyPC One Pro K7-24\Documents\egyii pplg 2\operasi matematika\operasi matematika\bin\Debug\net8.0\operasi matematika.pdb
+C:\Users\MyPC One Pro K7-24\Documents\egyii pplg 2\operasi matematika\operasi matematika\obj\Debug\net8.0\operasi matematika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyPC One Pro K7-24\Documents\egyii pplg 2\operasi matematika\operasi matematika\obj\Debug\net8.0\operasi matematika.AssemblyInfoInputs.cache
+C:\Users\MyPC One Pro K7-24\Documents\egyii pplg 2\operasi matematika\operasi matematika\obj\Debug\net8.0\operasi matematika.AssemblyInfo.cs
+C:\Users\MyPC One Pro K7-24\Documents\egyii pplg 2\operasi matematika\operasi matematika\obj\Debug\net8.0\operasi matematika.csproj.CoreCompileInputs.cache
+C:\Users\MyPC One Pro K7-24\Documents\egyii pplg 2\operasi matematika\operasi matematika\obj\Debug\net8.0\operasi matematika.dll
+C:\Users\MyPC One Pro K7-24\Documents\egyii pplg 2\operasi matematika\operasi matematika\obj\Debug\net8.0\refint\operasi matematika.dll
+C:\Users\MyPC One Pro K7-24\Documents\egyii pplg 2\operasi matematika\operasi matematika\obj\Debug\net8.0\operasi matematika.pdb
+C:\Users\MyPC One Pro K7-24\Documents\egyii pplg 2\operasi matematika\operasi matematika\obj\Debug\net8.0\operasi matematika.genruntimeconfig.cache
+C:\Users\MyPC One Pro K7-24\Documents\egyii pplg 2\operasi matematika\operasi matematika\obj\Debug\net8.0\ref\operasi matematika.dll
